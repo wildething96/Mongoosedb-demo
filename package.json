@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.2.0",
+    "yargs": "^17.3.1"
+  },
+  "name": "mongoosedb-demo",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildething96/Mongoosedb-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildething96/Mongoosedb-demo/issues"
+  },
+  "homepage": "https://github.com/wildething96/Mongoosedb-demo#readme"
+}
