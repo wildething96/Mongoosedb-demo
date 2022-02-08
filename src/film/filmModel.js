@@ -9,6 +9,14 @@ const filmSchema = mongoose.Schema({
     type: String,
     default: "actor unknown",
   },
+  rating: {
+    type: Number,
+    default: "N/A",
+  },
+  Year: {
+    type: String,
+    default: "actor unknown",
+  },
 });
 
 const FilmModel = mongoose.model("Movies", filmSchema);
